@@ -8,10 +8,15 @@
 - 💬 Ask me about **React, nodejs, Html, Css, Js, Java.**
 
 - ⚡ Apart from all this **I love to travel as a traveler & explore adventurous things.**
-- 📝 Some Projects : [BlogHere](https://bloghere-ms8p.onrender.com/blogHere),  [Wanderlust](https://wanderlust-project-xoyx.onrender.com/listings).
+- 📝 Some Projects : [Jadi~ Booti~Sewa](https://github.com/Mayank-Kumar-Maurya/Jadi-Booti-Sewa), [BlogHere](https://bloghere-ms8p.onrender.com/blogHere),  [Wanderlust](https://wanderlust-project-xoyx.onrender.com/listings).
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  <a href="https://mayankkumarmaurya"><img src="https://img.shields.io/badge/-Portfolio-orange?style=flat&logo=link&logoColor=white" /></a>
+  <a href="mayankmaurya2122@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/Mayank-Kumar-Maurya"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white" /></a>
+  <a href="https://leetcode.com/u/Jaadu-/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=LeetCode&logoColor=black" /></a>
+  
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
